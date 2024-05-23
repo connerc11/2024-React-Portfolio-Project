@@ -2,6 +2,7 @@
 //import reactLogo from './assets/react.svg'
 //  import viteLogo from '/vite.svg'
 import styles from "./App.module.css";
+import { Projects } from "./components/Projects/Projects";
 import { Experience } from "./components/Experience/Experience";
 import { About } from "./components/About/About";
 import { Navbar } from './components/Navbar/Navbar'
@@ -15,8 +16,8 @@ function App() {
       <Hero />
        <About />
        <Experience />
-      {/* <Projects />
-      <Contact />   */}
+      < Projects /> 
+      {/* <Contact />    */}
     </div>
   );
 }
