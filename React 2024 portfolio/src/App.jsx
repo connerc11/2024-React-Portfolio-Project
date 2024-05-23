@@ -6,7 +6,7 @@ import { Contact } from "./components/Contact/Contact";
 import { Projects } from "./components/Projects/Projects";
 import { Experience } from "./components/Experience/Experience";
 import { About } from "./components/About/About";
-// import {Certifications} from "./components/Certifications/Certifications"
+import {Certifications} from "./components/Certifications/Certifications"
 import { Navbar } from './components/Navbar/Navbar'
 import { Hero } from "./components/Hero/Hero";
 //import './vars.css'
@@ -19,7 +19,7 @@ function App() {
        <About />
        <Experience />
       < Projects /> 
-      {/* <Certifications/> */}
+      <Certifications/>
       <Contact/>
     </div>
   );

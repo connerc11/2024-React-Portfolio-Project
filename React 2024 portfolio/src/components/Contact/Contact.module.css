@@ -5,9 +5,10 @@
     margin-top: 40px;
     padding-left: 20px;
     margin: auto;
+    align-items: center;
     display: flex;
-    max-width: 40%;
-    max-height: 40%
+    max-width: 25%;
+    max-height: 25%
     } 
 
 .container {
