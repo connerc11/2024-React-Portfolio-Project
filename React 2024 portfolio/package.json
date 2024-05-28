@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://connerc11.github.io/2024-React-Portfolio-Project",
+  "homepage": "https://connerc11.github.io/2024-react-project.connerc11.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
