@@ -27,16 +27,23 @@
 
 .aboutImage {
   width: 35%;
+  border-radius: 50%;
 }
 
 .aboutItems {
+  align-content: space-between;
   color: var(--color-text);
   display: flex;
   flex-direction: column;
   gap: 50px;
 }
 
+.aboutItemText {
+  margin: 10px;
+}
 .aboutItem {
+  margin: 5px;
+  margin-right: 5px;
   display: flex;
   flex-direction: row;
   align-items: center;

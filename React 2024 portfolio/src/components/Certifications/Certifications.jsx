@@ -15,7 +15,7 @@ export const Certifications = () => {
         /> */}
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("certifications/bootcampCertificate.png")} alt="bootcamp cert" />
+            <img className = {styles.aboutItem6} src={getImageUrl("certifications/bootcampCertificate.png")} alt="bootcamp cert" />
             <div className={styles.aboutItemText}>
               <h3>Bootcamp Certification</h3>
               <p>
@@ -24,7 +24,7 @@ export const Certifications = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("certifications/AWScloudpractioner.png")} alt="AWS Cert" />
+            <img className = {styles.aboutItem6} src={getImageUrl("certifications/AWScloudpractioner.png")} alt="AWS Cert" />
             <div className={styles.aboutItemText}>
               <h3>AWS Cloud Practioner Certification</h3>
               <p>
