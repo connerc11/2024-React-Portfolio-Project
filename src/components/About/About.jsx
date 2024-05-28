@@ -28,7 +28,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-              Architecting the digital backbone of tomorrow's innovations
+              Architecting the digital backbone of tomorrows innovations
               </p>
             </div>
           </li>
