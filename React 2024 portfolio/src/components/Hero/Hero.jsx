@@ -9,9 +9,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hello, I'm Conner</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 2 years of experience using React and
-          NodeJS. I have also worked on projects that use selenium, cucumber and have a knowledge of Java! 
-          Reach out if you'd like to learn more!
+        Welcome to my software developer portfolio, where innovation meets craftsmanship in the digital realm. With a passion for creating user-centric experiences, I bring two years of hands-on expertise in full-stack development to the table. From conceptualization to deployment, I thrive on challenges of modern software engineering, constantly seeking to push boundaries and deliver solutions that exceed expectations. Join me on a journey through my projects, where code becomes art 
         </p>
         <a href="mailto:cccochrane1@gmail.com" className={styles.contactBtn}>
           Contact Me

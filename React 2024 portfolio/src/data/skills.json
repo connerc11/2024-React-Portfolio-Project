@@ -24,6 +24,14 @@
       "imageSrc": "skills/oracleDB.png"
     },
     {
+      "title": "JavaScript",
+      "imageSrc": "skills/javaScript.png"
+    },
+    {
+      "title": "Vite",
+      "imageSrc": "skills/vite.png"
+    },
+    {
       "title": "Selenium",
       "imageSrc": "skills/selenium.png"
     }
